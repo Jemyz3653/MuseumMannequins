@@ -1,0 +1,17 @@
+{
+  "block.museummannequins.mannequin": "Museum Mannequin",
+  "museummannequins.editor": "Mannequin pose",
+  "museummannequins.mob": "Mob ID",
+  "museummannequins.yaw": "Body angle",
+  "museummannequins.head": "Head angle",
+  "museummannequins.pitch": "Head tilt",
+  "museummannequins.stride": "Limb pose",
+  "museummannequins.apply": "Apply",
+  "museummannequins.sent": "Sent to server",
+  "museummannequins.invalid": "Enter valid numbers",
+  "museummannequins.pose.0": "Standing",
+  "museummannequins.pose.1": "Sitting",
+  "museummannequins.pose.2": "Crouching",
+  "museummannequins.pose.3": "Sleeping",
+  "museummannequins.pose.4": "Swimming"
+}

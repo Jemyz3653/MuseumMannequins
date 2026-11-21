@@ -1,0 +1,17 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "museummannequins:block/mannequin"
+      }
+    },
+    {
+      "when": {
+        "glass": "true"
+      },
+      "apply": {
+        "model": "museummannequins:block/glass"
+      }
+    }
+  ]
+}

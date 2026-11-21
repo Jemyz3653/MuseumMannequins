@@ -1,0 +1,17 @@
+{
+  "block.museummannequins.mannequin": "Музейный манекен",
+  "museummannequins.editor": "Поза манекена",
+  "museummannequins.mob": "ID моба",
+  "museummannequins.yaw": "Поворот тела",
+  "museummannequins.head": "Поворот головы",
+  "museummannequins.pitch": "Наклон головы",
+  "museummannequins.stride": "Поза конечн.",
+  "museummannequins.apply": "Применить",
+  "museummannequins.sent": "Отправлено серверу",
+  "museummannequins.invalid": "Введите числа",
+  "museummannequins.pose.0": "Стоя",
+  "museummannequins.pose.1": "Сидя",
+  "museummannequins.pose.2": "Пригнувшись",
+  "museummannequins.pose.3": "Сон",
+  "museummannequins.pose.4": "Плавание"
+}

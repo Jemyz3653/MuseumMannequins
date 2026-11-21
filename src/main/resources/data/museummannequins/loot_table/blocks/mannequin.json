@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "museummannequins:mannequin",
+          "modifier": [
+            {
+              "type": "minecraft:copy_state",
+              "block": "museummannequins:mannequin",
+              "properties": [
+                "glass"
+              ]
+            },
+            {
+              "type": "minecraft:copy_components",
+              "source": "block_entity",
+              "include": [
+                "minecraft:custom_data"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
